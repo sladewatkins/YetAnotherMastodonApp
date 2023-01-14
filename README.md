@@ -5,7 +5,6 @@ And best of all, YAMA is being built in the open: by the community, for the comm
 
 ## How can I help?
 Well, you can certainly help us by contributing code, or by doing one of these things:
-- [help us choose this app's license](https://github.com/sladewatkins/YetAnotherMastodonApp/issues/1)
 - [submit your ideas](https://github.com/sladewatkins/YetAnotherMastodonApp/discussions/categories/ideas)
 - spread the word about this app and help get it off the ground!
 
